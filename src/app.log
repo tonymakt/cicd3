@@ -1,0 +1,9 @@
+2024-11-17 02:07:59,103 - app - ERROR - Duplicate HKID error: A123456(7) already exists
+2024-11-17 02:08:29,581 - app - INFO - User Bob Johnson created successfully with email bob@example.com and HKID D654321(0)
+2024-11-17 02:14:16,581 - app - ERROR - Duplicate HKID error: D654321(0) already exists
+2024-11-17 02:15:59,430 - app - ERROR - Duplicate HKID error: D654321(0) already exists
+2024-11-17 02:16:24,880 - app - INFO - User Alice Smith created successfully with email alice@example.com and HKID C987654(3)
+2024-11-17 02:18:40,963 - app - INFO - User Eve Green created successfully with email eve.green@example.com and HKID E5678901
+2024-11-17 02:20:07,462 - app - INFO - User Eve Green created successfully with email eve.green@example.com and HKID E5678901(2)
+2024-11-17 02:20:57,280 - app - INFO - User Frank Black created successfully with email frank.black@example.com and HKID F6789012(9)
+2024-11-17 02:21:28,443 - app - ERROR - Duplicate HKID error: A123456(7) already exists

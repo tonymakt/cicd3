@@ -1,0 +1,9 @@
+{
+    "db": {
+      "host": "172.17.0.3",
+      "database": "flask_crud",
+      "user": "sql",
+      "password": "sql1245"
+    },
+    "env": "production"
+}
