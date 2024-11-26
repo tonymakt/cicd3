@@ -1,6 +1,6 @@
 {
     "db": {
-      "host": "172.17.0.3",
+      "host": "172.17.0.2",
       "database": "flask_crud",
       "user": "sql",
       "password": "sql1245"
